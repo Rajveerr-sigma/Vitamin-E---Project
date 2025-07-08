@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All About Vitamin E</title>
+    <title>Vitamin E</title>
     <!-- Tailwind CSS CDN for easy styling -->
     <script src="https://cdn.tailwindcss.com"></script>
     <a href="https://www.file:///C:/Users/Dell/Downloads/.html.com"> </a>          
